@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 #인코딩을 utf-8로 변환 한글 오류 해결
 
+#1장 파이썬 문법(1)
+
 #slicing
 greeting = "hello minsu"
 
