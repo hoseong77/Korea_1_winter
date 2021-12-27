@@ -77,3 +77,11 @@ print(prices)
 prices = {'BTC': 8300000, 'XRP': 514}
 del prices['XRP']
 print(prices)
+
+#dict key
+prices = {'BTC': 8300000, 'XRP': 514,'ETH':600000}
+print(prices.keys())
+
+#dict values
+prices = {'BTC': 8300000, 'XRP': 514,'ETH':600000}
+print(prices.values())
